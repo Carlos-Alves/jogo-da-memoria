@@ -34,4 +34,6 @@ function flipCard(){
     
 }
 
+######Link para visualizar o projeto: https://carlos-alves.github.io/jogo-da-memoria/
+
 ```
